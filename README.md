@@ -1,9 +1,8 @@
-Here’s a **full GKE (Google Kubernetes Engine) project** that demonstrates deploying a containerized web application (Node.js backend and React frontend) with CI/CD integration using **Cloud Build**, **Artifact Registry**, and **Terraform for infrastructure provisioning**.
+**GKE (Google Kubernetes Engine) project** that demonstrates deploying a containerized web application (Node.js backend and React frontend) with CI/CD integration using **Cloud Build**, **Artifact Registry**, and **Terraform for infrastructure provisioning**.
 
 ---
 
-## ✅ Project Name: `gke-fullstack-app`
-
+## ✅ Project Name: GKE FullStack App
 ### 🎯 Features:
 
 * React frontend + Node.js (Express) backend
@@ -237,5 +236,3 @@ kubectl apply -f k8s/
 * CI/CD automated with Cloud Build
 
 ---
-
-Would you like a **GitHub repository link**, a **downloadable ZIP**, or **deployment script for GCP Cloud Shell**?
